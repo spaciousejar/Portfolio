@@ -23,6 +23,10 @@ This personal portfolio website is a showcase of my skills and experience as a w
 * JavaScript
 * Ionicons for icons
 
+## Deployment
+
+This project is deployed at [https://spaciousejar.github.io/Portfolio/](https://spaciousejar.github.io/Portfolio/).
+
 ## License
 
 This project is licensed under the MIT License.
