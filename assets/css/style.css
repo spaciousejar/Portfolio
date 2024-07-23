@@ -570,6 +570,21 @@ main {
   #RESUME
 \*-----------------------------------*/
 .article-title { margin-bottom: 30px; }
+.summary {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
+.contact-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+}
 /**
  * education and experience 
  */
